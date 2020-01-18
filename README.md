@@ -6,7 +6,7 @@ A Jupyter notebook repository for plotting real-time LA Metro bus coordinates on
 2) Converting these images to a gif.
 <br><br>
 <p align = 'center'>
-<img src=https://im7.ezgif.com/tmp/ezgif-7-350d455fe9b7.gif alt="LA Metro bus gif"
+<img src=https://i.imgur.com/ocy0b0u.gif alt="LA Metro bus gif"
     width=400><br>
 </p>
 
