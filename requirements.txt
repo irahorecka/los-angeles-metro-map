@@ -6,7 +6,7 @@ numpy==1.22.0
 packaging==20.0
 pandas==0.25.3
 phantomjs==1.1.4
-Pillow==10.0.1
+Pillow==10.2.0
 pyparsing==2.4.6
 python-dateutil==2.8.1
 python-lametro-api==0.2.0
