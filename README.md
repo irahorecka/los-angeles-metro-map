@@ -4,6 +4,8 @@
   <img src="https://tunnelingonline.com/wp-content/uploads/2015/06/la-metro-logo.jpg" width="50%" />
 </p>
 
+<br>
+
 A Jupyter notebook repository for plotting real-time LA Metro bus coordinates on a map.
 ## **Introduction**<br>
 ```metro_mapping.ipynb``` and ```gif_generator.ipynb``` complement each other in:
