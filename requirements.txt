@@ -1,4 +1,4 @@
-bokeh==1.4.0
+bokeh==3.8.2
 imageio==2.6.1
 Jinja2==3.1.6
 MarkupSafe==1.1.1
